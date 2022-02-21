@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(132, 0, 255);
+    width: 500px;
+    margin: auto;
+    padding-top: 100px;
+}
+
+div {
+    padding-bottom: 30px;
+}
+
+#divGeral {
+    background-color: rgb(182, 180, 29);
+    border-radius: 25px;
+    padding: 20px;
+}

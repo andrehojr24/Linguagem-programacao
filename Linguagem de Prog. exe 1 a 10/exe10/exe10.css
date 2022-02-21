@@ -1,0 +1,18 @@
+
+
+body{
+    background-color: rgba(0, 102, 255, 0.61);
+    width: 400px;
+    margin: auto;
+    padding-top: 100px;
+}
+
+div {
+    padding-bottom: 30px;
+}
+
+#divGeral {
+    background-color: rgb(182, 29, 136);
+    border-radius: 15px;
+    padding: 20px;
+}

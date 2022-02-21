@@ -1,0 +1,20 @@
+body {
+    background-color: aqua;
+    width: 400px; /* largura da página */
+    padding-left: 150px; /* espaçamento interno à esquerda */ 
+    padding-top: 30px; /* espaçamento interno acima */
+}
+
+div {
+    margin-bottom: 30px;
+}
+
+input {
+    background-color: rgb(30, 175, 67);
+}
+
+#divGeral{
+    border-radius: 15px;
+    background-color: white;
+    padding: 100px;
+}
